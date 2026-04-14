@@ -25,5 +25,5 @@ I am an 18-year-old Full-stack Developer currently studying at [ESCO Lisboa](htt
 *   **LinkedIn**: [Eduardo Carvalho](https://www.linkedin.com/in/eduardo-carvalho-dev/ )
 *   **Email**: eduardo.carvalho.pt.dev@gmail.com
 *   **GitHub**: [github.com/EduhxH](https://github.com/EduhxH )
-*   **Location**: Lisboa, Portugal
 *   **Instagram**: [@eduivyy](https://www.instagram.com/eduivyy/ )
+*   **Location**: Lisboa, Portugal
