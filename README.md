@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/EduhxH">
-    <img src="https://img.shields.io/github/followers/EduhxH?label=Follow&style=for-the-badge&color=000000&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/EduhxH?label=Follow&style=for-the-badge&color=333333&logo=github" alt="GitHub Followers">
   </a>
   <a href="https://linkedin.com/in/eduardo-carvalho-pt-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -49,8 +49,8 @@ I am an 18-year-old Full-stack Developer currently studying at ESCO Lisboa. My t
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduhxH&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhxH&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000&hide=html,css" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduhxH&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhxH&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" height="150">
 </p>
 
 ---
