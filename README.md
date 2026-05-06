@@ -1,7 +1,7 @@
 # Eduardo Carvalho (EduhxH)
 
 <p align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663399723543/GdyAsRUowVpzmYpQ.jpg" alt="Eduardo's Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/07b93ca1-a844-489e-a21a-6a309eb7b912" alt="Eduardo's Banner" width="100%">
 </p>
 
 <p align="center">
