@@ -1,82 +1,131 @@
-# Eduardo Carvalho (EduhxH)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07b93ca1-a844-489e-a21a-6a309eb7b912" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Eduardo Carvalho</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07b93ca1-a844-489e-a21a-6a309eb7b912" alt="Eduardo's Banner" width="100%">
+  Full-Stack Developer · AI/Agent Systems · LLM Tooling<br>
+  ESCO Lisboa · Portugal
 </p>
 
 <p align="center">
   <a href="https://github.com/EduhxH">
-    <img src="https://img.shields.io/github/followers/EduhxH?label=Follow&style=for-the-badge&color=333333&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/EduhxH?label=Follow&style=flat-square&color=222&logo=github" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/eduardo-carvalho-pt-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
----
-
-### 💫 About Me
-
-I am an **18-year-old Full-stack Developer** currently studying at **ESCO Lisboa**. My technical focus has evolved from backend systems to building comprehensive full-stack applications, with a deep interest in the integration of **Large Language Models (LLMs)** and **autonomous AI Agents**. 
-
-- 🔭 I’m currently working on AI Agent frameworks and RAG systems.
-- 🌱 I’m currently learning **C++** and **Java** to expand my low-level and enterprise knowledge.
-- ⚡ Fun fact: I build things that (sometimes) work.
-
----
-
-### 🚀 Technologies and Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & AI** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Other** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) |
-
----
-
-### 🛠️ Featured Projects
-
-#### 🤖 Artificial Intelligence and Agents
-*   **[MCP-SERVER-PRO](https://github.com/EduhxH/MCP-SERVER-PRO)**: Professional Model Context Protocol (MCP) Server for AI Agents, featuring connectors for Pinecone, Google Cloud, and IDE automation.
-*   **[IA-agent-with-tools](https://github.com/EduhxH/IA-agent-with-tools---)**: Autonomous local AI agent built with Ollama and React 19, implementing the ReAct pattern with real tool integration.
-*   **[AGENTE-IA](https://github.com/EduhxH/AGENTE-IA)**: A laboratory focused on RAG (Retrieval-Augmented Generation) and local LLM exploration.
-
-#### 💻 Desktop and Web
-*   **[rei-launcher](https://github.com/EduhxH/rei-launcher)**: A modern and minimalist Minecraft launcher built with Electron, inspired by Rei Ayanami's aesthetic.
-*   **[fullstack-crud](https://github.com/EduhxH/fullstack-crud)**: A complete user management system with React, Node.js, and MongoDB, focusing on security (JWT) and best practices.
-*   **[Dryloud](https://github.com/EduhxH/Dryloud)**: A C# / WinForms desktop music player with playlist management and file search.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduhxH&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhxH&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduhxH&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" height="180">
-</p>
-
----
-
-### 📬 Contact and Connect
-
-<p align="center">
   <a href="mailto:eduardo.carvalho.pt.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/eduardo-carvalho-pt-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/eduivyy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
+---
+
+## About
+
+18-year-old developer with a primary focus on **AI agent systems and full-stack web development**. My work centers on building autonomous agents that reason and act through tool use, designing MCP servers that bridge AI models with external systems, and implementing RAG pipelines for local LLM deployment.
+
+On the full-stack side, I build production-oriented REST APIs using Node.js/Express with proper auth (JWT), input validation (Zod), ORM-backed databases (Prisma + MongoDB), and React frontends. I care about architectural decisions, not just making things work.
+
+Currently expanding into **C++** and **Java** to strengthen systems-level and enterprise knowledge alongside AI development.
+
+---
+
+## Technical Stack
+
+**AI / LLM**
+`Ollama` `LangChain` `RAG` `ReAct pattern` `MCP (Model Context Protocol)` `Tool calling` `Prompt engineering` `Pinecone` `Vector search`
+
+**Backend**
+`Node.js` `Express` `FastAPI` `Prisma ORM` `JWT` `Zod` `REST APIs` `MongoDB` `MySQL` `MS Access` `SQL`
+
+**Frontend**
+`React 19` `TypeScript` `TailwindCSS` `Electron`
+
+**Languages**
+`Python` `JavaScript` `TypeScript` `C#` `SQL`
+Currently learning: `C++` `Java`
+
+**Infrastructure & Tooling**
+`Docker` `Git` `GitHub Actions` `Railway` `Render` `Vercel` `Google Cloud`
+
+---
+
+## Featured Projects
+
+### AI & Agent Systems
+
+#### [MCP-SERVER-PRO](https://github.com/EduhxH/MCP-SERVER-PRO)
+**Professional Model Context Protocol server for AI agent integration.**
+Built connectors for Pinecone (vector DB queries), Google Cloud (storage + APIs), and IDE automation. Designed to serve as a composable tool layer between LLM orchestrators and external systems — structured around MCP's server/client model for deterministic tool routing.
+`Python` `MCP` `Pinecone` `Google Cloud` `Tool calling`
+
+---
+
+#### [IA-agent-with-tools](https://github.com/EduhxH/IA-agent-with-tools---)
+**Autonomous local AI agent implementing the ReAct reasoning pattern.**
+Built with Ollama (local LLM inference) and React 19 frontend. The agent follows a Thought → Action → Observation loop with real tool integration, enabling multi-step task execution without external APIs. Focus was on keeping inference fully local while maintaining structured reasoning traces.
+`Python` `Ollama` `ReAct` `React 19` `Tool calling`
+
+---
+
+#### [AGENTE-IA](https://github.com/EduhxH/AGENTE-IA)
+**RAG pipeline and local LLM exploration lab.**
+Implements Retrieval-Augmented Generation over custom document corpora using local embedding models and vector similarity search. Designed as a research environment for testing retrieval strategies, chunking approaches, and prompt injection patterns.
+`Python` `RAG` `Embeddings` `Ollama` `Vector search`
+
+---
+
+### Full-Stack & Web
+
+#### [fullstack-crud](https://github.com/EduhxH/fullstack-crud)
+**Production-oriented full-stack user management system.**
+React frontend + Node.js/Express backend + MongoDB Atlas. Implements JWT-based authentication, Zod input validation, paginated list endpoints, and full CRUD with proper HTTP semantics. Deployed on Render (API) with structured environment management.
+`React` `Node.js` `Express` `MongoDB` `JWT` `Zod` `Prisma`
+
+---
+
+### Desktop & Systems
+
+#### [rei-launcher](https://github.com/EduhxH/rei-launcher)
+**Custom Minecraft launcher built with Electron.**
+Minimalist desktop application inspired by Rei Ayanami's aesthetic. Handles authentication flow, profile management, and launch configuration through Electron's main/renderer process architecture.
+`Electron` `JavaScript` `CSS`
+
+---
+
+#### [Dryloud](https://github.com/EduhxH/Dryloud)
+**Desktop music player in C# / WinForms.**
+Implements playlist management, local file system search, and playback control. Includes database persistence via MS Access, demonstrating cross-domain development across systems and UI layers.
+`C#` `WinForms` `MS Access` `SQL`
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <i>"Building things that (sometimes) work."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=EduhxH&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="165" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhxH&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide=html,css" height="165" alt="Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduhxH&theme=dark&hide_border=true&background=00000000" height="165" alt="Streak">
+</p>
+
+---
+
+## Contact
+
+| Platform | Link |
+|:---|:---|
+| Email | [eduardo.carvalho.pt.dev@gmail.com](mailto:eduardo.carvalho.pt.dev@gmail.com) |
+| LinkedIn | [eduardo-carvalho-pt-dev](https://linkedin.com/in/eduardo-carvalho-pt-dev) |
+| Instagram | [@eduivyy](https://instagram.com/eduivyy) |
+
+---
+
+<p align="center">
+  <sub>Building things that work — and understanding why they do.</sub>
 </p>
