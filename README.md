@@ -15,13 +15,17 @@
 
 ---
 
-### About Me
+### 💫 About Me
 
-I am an 18-year-old Full-stack Developer currently studying at ESCO Lisboa. My technical focus has evolved from backend systems to building comprehensive full-stack applications, with a deep interest in the integration of Large Language Models (LLMs) and autonomous AI Agents. I am proficient in Python, JavaScript, React, and C#, and I am actively expanding my expertise into C++ and Java. I am fluent in both Portuguese and English and dedicated to building innovative software solutions.
+I am an **18-year-old Full-stack Developer** currently studying at **ESCO Lisboa**. My technical focus has evolved from backend systems to building comprehensive full-stack applications, with a deep interest in the integration of **Large Language Models (LLMs)** and **autonomous AI Agents**. 
+
+- 🔭 I’m currently working on AI Agent frameworks and RAG systems.
+- 🌱 I’m currently learning **C++** and **Java** to expand my low-level and enterprise knowledge.
+- ⚡ Fun fact: I build things that (sometimes) work.
 
 ---
 
-### Technologies and Tools
+### 🚀 Technologies and Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -32,34 +36,46 @@ I am an 18-year-old Full-stack Developer currently studying at ESCO Lisboa. My t
 
 ---
 
-### Featured Projects
+### 🛠️ Featured Projects
 
-#### Artificial Intelligence and Agents
+#### 🤖 Artificial Intelligence and Agents
 *   **[MCP-SERVER-PRO](https://github.com/EduhxH/MCP-SERVER-PRO)**: Professional Model Context Protocol (MCP) Server for AI Agents, featuring connectors for Pinecone, Google Cloud, and IDE automation.
 *   **[IA-agent-with-tools](https://github.com/EduhxH/IA-agent-with-tools---)**: Autonomous local AI agent built with Ollama and React 19, implementing the ReAct pattern with real tool integration.
 *   **[AGENTE-IA](https://github.com/EduhxH/AGENTE-IA)**: A laboratory focused on RAG (Retrieval-Augmented Generation) and local LLM exploration.
 
-#### Desktop and Web
+#### 💻 Desktop and Web
 *   **[rei-launcher](https://github.com/EduhxH/rei-launcher)**: A modern and minimalist Minecraft launcher built with Electron, inspired by Rei Ayanami's aesthetic.
 *   **[fullstack-crud](https://github.com/EduhxH/fullstack-crud)**: A complete user management system with React, Node.js, and MongoDB, focusing on security (JWT) and best practices.
 *   **[Dryloud](https://github.com/EduhxH/Dryloud)**: A C# / WinForms desktop music player with playlist management and file search.
 
 ---
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduhxH&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhxH&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduhxH&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduhxH&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Languages" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduhxH&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" height="180">
 </p>
 
 ---
 
-### Contact and Connect
+### 📬 Contact and Connect
 
-*   **Email**: [eduardo.carvalho.pt.dev@gmail.com](mailto:eduardo.carvalho.pt.dev@gmail.com)
-*   **LinkedIn**: [Eduardo Carvalho](https://linkedin.com/in/eduardo-carvalho-pt-dev)
-*   **Instagram**: [@eduivyy](https://instagram.com/eduivyy)
+<p align="center">
+  <a href="mailto:eduardo.carvalho.pt.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/eduardo-carvalho-pt-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/eduivyy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 <p align="center">
   <i>"Building things that (sometimes) work."</i>
