@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-carvalho-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.carvalho.pt.dev@gmail.com)
-[![Followers](https://img.shields.io/github/followers/EduhxH?label=Follow&style=for-the-badge&color=6e40c9&logo=github&logoColor=white)](https://github.com/EduhxH)
+[![Followers](https://img.shields.io/badge/Followers-7-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduhxH?tab=followers)
 [![Lisboa, Portugal](https://img.shields.io/badge/Lisboa,_Portugal-30363d?style=for-the-badge)]()
 
 *Student developer in Portugal. I build systems end to end — from the crawler and the index to the page students actually open — and I measure every decision before I keep it.*
